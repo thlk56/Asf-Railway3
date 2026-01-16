@@ -1,0 +1,6 @@
+{
+  "Headless": true,
+  "AutoRestart": true,
+  "Statistics": true,
+  "OptimizationMode": 2
+}
